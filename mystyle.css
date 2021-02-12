@@ -1,0 +1,63 @@
+
+
+  .heading {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+
+  .image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+  }
+
+  td {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  td,th {
+    text-align: center;
+    vertical-align:middle;
+    color: #80d4ff;
+  }
+
+  .topic{
+    color: #070707;
+    font-weight: 900;
+    font-family: Cooper Black;
+    letter-spacing: 6px;
+    /* color: black; */
+  /* -webkit-text-fill-color: white; Will override color (regardless of order) */
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: rgb(236, 20, 20);
+  }
+
+  .outline {
+    background: #2f2fa0;
+    padding: 10px;
+    border-radius: 9px;
+    margin-bottom: 8px;;
+  }
+
+  .clr {
+    color: black;
+  }
+
+  .outline2 {
+    background: #7373ca;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 9px;
+    margin-bottom: 8px;;
+  }
+  
+
+  .top{
+    margin-top: 50px;
+  }
+
+  .letter {
+    letter-spacing: 3px;
+  }
